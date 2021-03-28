@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/harunmohamed/bambi-v3">
-    [![Logo][logo]](https://harunmohamed.github.io/cabee)
+    ![Logo](appicon.jpg)
   </a>
 
   <h3 align="center">CABEE</h3>
@@ -11,11 +11,11 @@
   <p align="center">
     Peer to Peer Ride Hailing Application for North Cyprus
     <br />
-    <a>View App</a>
+    <a href="">View App</a>
     ·
-    <a>Report Bug</a>
+    <a href="">Report Bug</a>
     ·
-    <a>Request Feature</a>
+    <a href="">Request Feature</a>
   </p>
 </p>
 
@@ -50,4 +50,3 @@
 [issues-shield]: https://img.shields.io/github/issues/harunmohamed/cabee.svg?style=flat-square
 [issues-url]: https://github.com/harunmohamed/cabee/issues
 [cover]: screenshot.png
-[logo]: icon.jpg
