@@ -2,8 +2,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  
-    [![Appicon][appicon]](https://harunmohamed.github.io/cabee)
+  <a>
+    <img src="https://raw.githubusercontent.com/harunmohamed/cabee/master/appicon.jpg">
+  </a>
 
   <h3 align="center">CABEE</h3>
 
@@ -40,7 +41,7 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[appicon]: appicon.jpg
+
 [contributors-shield]: https://img.shields.io/github/contributors/harunmohamed/cabee.svg?style=flat-square
 [contributors-url]: https://github.com/harunmohamed/cabee/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/harunmohamed/cabee.svg?style=flat-square
