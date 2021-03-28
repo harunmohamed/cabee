@@ -2,9 +2,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a>
-    <img src="https://raw.githubusercontent.com/harunmohamed/cabee/master/icon.jpg" style="width:30px;height:30px;border-radius:30px;">
-  </a>
 
   <h3 align="center">CABEE</h3>
 
@@ -19,14 +16,7 @@
   </p>
 </p>
 
-<p align="center">
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-</p>
 
 
 
