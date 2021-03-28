@@ -6,16 +6,16 @@
     [![Logo][logo]](https://harunmohamed.github.io/cabee)
   </a>
 
-  <h3 align="center">Bambi cabee</h3>
+  <h3 align="center">CABEE</h3>
 
   <p align="center">
-    Match, Chat and Date on Bambi!
+    Peer to Peer Ride Hailing Application for North Cyprus
     <br />
-    <a href="https://neucabee.herokuapp.com">View App</a>
+    <a>View App</a>
     ·
-    <a href="https://bambi.app/m/harun">Report Bug</a>
+    <a>Report Bug</a>
     ·
-    <a href="https://bambi.app/m/harun">Request Feature</a>
+    <a>Request Feature</a>
   </p>
 </p>
 
@@ -25,8 +25,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 </p>
 
@@ -38,9 +36,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
 [![Cover][cover]](https://harunmohamed.github.io/cabee)
-Welcome to the official Bambi cabee Repository. On this version of Bambi, the user can do the following:
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
