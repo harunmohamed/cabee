@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a>
-    <img src="https://raw.githubusercontent.com/harunmohamed/cabee/master/appicon.jpg" style="width:10px;height:10px;">
+    <img src="https://raw.githubusercontent.com/harunmohamed/cabee/master/icon.jpg" style="width:30px;height:30px;border-radius:30px;">
   </a>
 
   <h3 align="center">CABEE</h3>
